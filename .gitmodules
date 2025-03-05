@@ -1,0 +1,3 @@
+[submodule "can4linux"]
+	path = can4linux
+	url = https://gitlab.com/hjoertel/can4linux.git
