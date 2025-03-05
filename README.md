@@ -1,4 +1,6 @@
-﻿# Branch List in the Repository - Each item corresponds to a branch—information about the source code contained in that branch.
+﻿# Branch List in the Repository
+ 
+## Each item corresponds to a branch—information about the source code contained in that branch.
 
 1. **main**  
    - Infomation about respon
