@@ -57,9 +57,14 @@
 - **Repository**: [Apollo GitHub Repository](https://github.com/ApolloAuto/apollo)
 
 10. htop
-- **Repository**: [Apollo GitHub Repository](https://github.com/htop-dev/htop)
+- **Repository**: [htop GitHub Repository](https://github.com/htop-dev/htop)
 - htop is a cross-platform interactive process viewer.
 - htop allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown.
+
+11. Sysdig
+- **Description**:
+  Sysdig is a powerful open source tool designed for system monitoring, troubleshooting, and analysis. It captures system calls and events to provide deep insights into system activity, helping users optimize performance and detect security issues. Sysdig is particularly valuable in containerized and cloud environments.
+- **Repository**: [Sysdig GitHub Repository](https://github.com/draios/sysdig)
 
 
 
