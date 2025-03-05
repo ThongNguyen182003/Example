@@ -3,7 +3,7 @@
 ## Each item corresponds to a branch—information about the source code contained in that branch.
 
 1. **main**  
-   - Infomation about respon
+   - Infomation about branch
 
 2. **hardware-devices-emulator**  
    - Contains source code to emulate hardware devices on Linux.  
@@ -55,6 +55,11 @@
   - **User-Space Tools**: Offers simulation, visualization, and monitoring applications to aid development and deployment.
   - **Drivers & Hardware Interface**: Integrates extensive hardware drivers for sensors and vehicle components, ensuring robust communication with the underlying hardware.
 - **Repository**: [Apollo GitHub Repository](https://github.com/ApolloAuto/apollo)
+
+10. htop
+- **Repository**: [Apollo GitHub Repository](https://github.com/htop-dev/htop)
+- htop is a cross-platform interactive process viewer.
+- htop allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown.
 
 
 
