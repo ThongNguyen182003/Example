@@ -30,14 +30,13 @@
    - Codebase 10k line.
    - Intended for educational and OS development research.
 
-
-7. **can-driver**  
+8. **can-driver**  
     - An open-source CAN bus driver for Linux that includes sample application code for sending and receiving CAN frames using standard system calls.  
     - Useful for understanding how applications can interact with CAN hardware (or a virtual CAN) via the driver layer.  
     - [Project Page](https://gitlab.com/hjoertel/can4linux)
 
 
-8. OpenPilot (by comma.ai)
+9. OpenPilot (by comma.ai)
 - **Description**:  
   OpenPilot is an open-source advanced driver-assistance system (ADAS) that provides semi-autonomous driving features. It integrates AI-based perception (using deep learning models), user-space applications (dashboard, control interfaces, and monitoring tools), and low-level drivers (including CAN bus communication) to interact with vehicle hardware.
 - **Key Features**:  
@@ -47,7 +46,7 @@
 - **Repository**: [OpenPilot GitHub Repository](https://github.com/commaai/openpilot)
 
 
-9. Apollo (by Baidu)
+10. Apollo (by Baidu)
 - **Description**:  
   Apollo is a full-featured autonomous driving platform designed for real-world applications. It covers every layer of the software stack—from AI-based perception and planning to control and hardware interfacing, including sensor and actuator drivers.
 - **Key Features**:  
@@ -56,12 +55,12 @@
   - **Drivers & Hardware Interface**: Integrates extensive hardware drivers for sensors and vehicle components, ensuring robust communication with the underlying hardware.
 - **Repository**: [Apollo GitHub Repository](https://github.com/ApolloAuto/apollo)
 
-10. htop
+11. htop
 - **Repository**: [htop GitHub Repository](https://github.com/htop-dev/htop)
 - htop is a cross-platform interactive process viewer.
 - htop allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown.
 
-11. Sysdig
+12. Sysdig
 - **Description**:
   Sysdig is a powerful open source tool designed for system monitoring, troubleshooting, and analysis. It captures system calls and events to provide deep insights into system activity, helping users optimize performance and detect security issues. Sysdig is particularly valuable in containerized and cloud environments.
 - **Repository**: [Sysdig GitHub Repository](https://github.com/draios/sysdig)
